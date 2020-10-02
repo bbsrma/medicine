@@ -18,7 +18,7 @@ Vue.filter('to-firstLetter-capital', function(value){
   return value[0].toUpperCase()+value.slice(1);
 });
 
-axios.defaults.baseURL = 'http://medicine.evalaya.com/api';
+axios.defaults.baseURL = 'http://localhost:8080/api';
 axios.defaults.headers.get['Accepts'] = 'application/json';
 
 new Vue({
