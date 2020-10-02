@@ -1,5 +1,5 @@
 module.exports = {
     devServer: {
-      proxy: 'http://medicine.evalaya.com/'
+      proxy: 'https://medicine.evalaya.com/'
     }
   }
