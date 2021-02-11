@@ -1,4 +1,4 @@
-# hometutor
+# Medicine suggest App (Vue js Application)
 
 ## Project setup
 ```
