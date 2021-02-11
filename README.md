@@ -1,4 +1,4 @@
-# Medicine suggest App (Vue js Application)
+# Medicine suggest App (Vue.js Application)
 
 ## Project setup
 ```
