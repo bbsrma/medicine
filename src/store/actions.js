@@ -182,7 +182,7 @@ export const actions = {
       }
     },
     async login(context, user){
-      let response = await axios.post('auth/login/', user);
+      let response = await axios.post('auth/login', user);
       console.log(JSON.stringify(response.data));
 
       // if(response.statusText == 'OK' || response.status == 200){
